@@ -1,0 +1,8 @@
+Package: com.vcam.colortest
+Name: VCAM Color Test
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Description: Independent color and timing reference for testing on iOS
+Maintainer: VCAM
+Author: VCAM
+Section: Applications
